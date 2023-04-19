@@ -6,7 +6,7 @@ This repository contains the necessary files and resources for the study "Anomal
 
 The repository is organized as follows:
 
-- `audio-data/`: This folder contains the audio files with added anomalies. The anomalies are provided as ZIP files, named according to the frequency ranges and mixing levels.
+- `Audio_data/`: This folder contains the audio files with added anomalies. The anomalies are provided as ZIP files, named according to the frequency ranges and mixing levels.
 - `ground_truth_mel/`: This folder contains the ground truth Mel spectrogram maps, organized in the same manner as the audio files.
 - `ground_truth_stft/`: This folder contains the ground truth Short-Time Fourier Transform (STFT) spectrogram maps, organized in the same manner as the audio files.
 
